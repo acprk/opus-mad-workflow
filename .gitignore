@@ -1,0 +1,22 @@
+# 原始素材（版权内容，不随仓库分发）
+src
+extra
+extra_hd/
+*.mp4
+*.wav
+*.zip
+
+# 中间产物（可由脚本重新生成）
+work/index/
+work/clips/
+work/chunks/
+work/board/
+work/sheets/
+work/cover/*.png
+work/cover/v03_*.jpg
+work/cover/sheet_*.jpg
+work/cover/cover_small.jpg
+work/cover/cover.jpg
+work/*.html
+work/asr_*.json
+__pycache__/
